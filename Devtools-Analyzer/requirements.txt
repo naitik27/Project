@@ -2,3 +2,5 @@ tweepy
 ascii_graph
 tqdm
 numpy
+pgrep
+requests
